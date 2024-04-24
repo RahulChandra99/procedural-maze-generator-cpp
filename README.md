@@ -66,3 +66,10 @@ Or use IDE like JetBrains CLion.
 Bellot, V., Cautrès, M., Favreau, J-M., Gonzalez-Thauvin, M., Lafourcade, P., Le Cornec, K., Mosnier, B. & Rivière-Wekstein, S. (2021). How to generate perfect mazes? Information Sciences, 572, 444-459. https://doi.org/10.1016/j.ins.2021.03.022.
 
 Ioannidis, P.L. (2016). Procedural Maze Generation. Bachelor Thesis. National and Kapodistrian University of Athens, School of Sciences, Department of Informatics and Telecommunications. Supervised by Stamatopoulos, P. (PDF)https://pergamos.lib.uoa.gr/uoa/dl/frontend/file/lib/default/data/1324569/theFile
+
+# Feedback and TODO
+
+1. Expand on Procedural Maze Generation
+2. Dungeons/Room Generation(original plan)
+3. Connect with UE5 or Unity as a tool
+4. https://www.youtube.com/shorts/0e2__ux19Dk 
