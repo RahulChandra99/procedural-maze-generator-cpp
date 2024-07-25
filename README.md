@@ -1,5 +1,10 @@
 
-# 3D Procedural Maze Generation Program
+# 3D Procedural Maze Generation Program using C++ and PyQT
+## Animation and Software Engineering Assignment, Bournemouth University'24
+
+
+[![VIDEO IMPLEMENTATION](https://github.com/user-attachments/assets/4292b79f-e266-44c8-bded-36ec36a20472)](https://www.youtube.com/watch?v=mkv6kwSWQrA&ab_channel=RahulChandra)
+
 
 ## Overall Idea
 
@@ -69,7 +74,7 @@ Ioannidis, P.L. (2016). Procedural Maze Generation. Bachelor Thesis. National an
 
 # Feedback and TODO
 
-1. Expand on Procedural Maze Generation
-2. Dungeons/Room Generation(original plan)
-3. Connect with UE5 or Unity as a tool
-4. https://www.youtube.com/shorts/0e2__ux19Dk 
+- [ ] Expand on Procedural Maze Generation
+- [ ] Dungeons/Room Generation(original plan)
+- [ ] Connect with UE5 or Unity as a tool
+- [ ] https://www.youtube.com/shorts/0e2__ux19Dk 
