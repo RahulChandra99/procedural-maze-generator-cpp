@@ -4,7 +4,7 @@
 
 # Table of Contents
 
-* [Video Implementation](#overall-idea)
+* [Video Implementation](#video-implementation)
 * [Overall Idea](#overall-idea)
     * [Abstract](#abstract)
     * [Elements of the program](#elements-of-the-program)
