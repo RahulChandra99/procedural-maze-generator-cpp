@@ -2,7 +2,22 @@
 # 3D Procedural Maze Generation Program using C++ and PyQT
 ## Animation and Software Engineering Assignment, Bournemouth University'24
 
+# Table of Contents
 
+* [Video Implementation](#overall-idea)
+* [Overall Idea](#overall-idea)
+    * [Abstract](#abstract)
+    * [Elements of the program](#elements-of-the-program)
+    * [Algorithms Brief](#algorithms-brief)
+    * [Class Designl](#class-design)
+* [Development Environment](#development-environment)
+* [Building the program](#building-the-program)
+* [Reference](#reference)
+
+
+</br>
+
+## Video Implementation
 [![VIDEO IMPLEMENTATION](https://github.com/user-attachments/assets/4292b79f-e266-44c8-bded-36ec36a20472)](https://www.youtube.com/watch?v=mkv6kwSWQrA&ab_channel=RahulChandra)
 
 
