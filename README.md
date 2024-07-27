@@ -1,6 +1,6 @@
 
 # 3D Procedural Maze Generation Program using C++ and PyQT
-## Animation and Software Engineering Assignment, Bournemouth University'24
+Animation and Software Engineering Assignment, Bournemouth University'24
 
 # Table of Contents
 
