@@ -1,6 +1,7 @@
 
-# 3D Procedural Maze Generation Program using C++ and Qt Creator
-Animation and Software Engineering Assignment, Bournemouth University'24
+
+<h1 align="center"> 3D Procedural Maze Generation Program using C++ and Qt Creator</h1>
+<h4 align="center">Animation and Software Engineering Assignment <br> Bournemouth University'24 </h4>
 
 # Table of Contents
 
