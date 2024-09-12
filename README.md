@@ -1,5 +1,26 @@
 
-# 3D Procedural Maze Generation Program
+
+<h1 align="center"> 3D Procedural Maze Generation Program using C++ and Qt Creator</h1>
+<h4 align="center">Animation and Software Engineering Assignment <br> Bournemouth University'24 </h4>
+
+# Table of Contents
+
+* [Video Implementation](#video-implementation)
+* [Overall Idea](#overall-idea)
+    * [Abstract](#abstract)
+    * [Elements of the program](#elements-of-the-program)
+    * [Algorithms Brief](#algorithms-brief)
+    * [Class Designl](#class-design)
+* [Development Environment](#development-environment)
+* [Building the program](#building-the-program)
+* [Reference](#reference)
+
+
+</br>
+
+## Video Implementation
+[![VIDEO IMPLEMENTATION](https://github.com/user-attachments/assets/4292b79f-e266-44c8-bded-36ec36a20472)](https://www.youtube.com/watch?v=mkv6kwSWQrA&ab_channel=RahulChandra)
+
 
 ## Overall Idea
 
@@ -69,7 +90,7 @@ Ioannidis, P.L. (2016). Procedural Maze Generation. Bachelor Thesis. National an
 
 # Feedback and TODO
 
-1. Expand on Procedural Maze Generation
-2. Dungeons/Room Generation(original plan)
-3. Connect with UE5 or Unity as a tool
-4. https://www.youtube.com/shorts/0e2__ux19Dk 
+- [ ] Expand on Procedural Maze Generation
+- [ ] Dungeons/Room Generation(original plan)
+- [ ] Connect with UE5 or Unity as a tool
+- [ ] https://www.youtube.com/shorts/0e2__ux19Dk 
