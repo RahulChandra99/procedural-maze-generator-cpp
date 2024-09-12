@@ -13,7 +13,7 @@ MainWindow::MainWindow(QWidget *parent) :QMainWindow(parent), m_ui(new Ui::MainW
   //connect(m_gl, &NGLScene::textUpdateSignal, this, &MainWindow::updateTextBrowser);
 
   m_ui->cubeColorCombo->addItem("Solid Color");
-  m_ui->cubeColorCombo->addItem("Checkere Color");
+  m_ui->cubeColorCombo->addItem("Checkered Color");
 
   m_ui->floorColorCombo->addItem("Checkered Color");
   m_ui->floorColorCombo->addItem("Solid Color");
