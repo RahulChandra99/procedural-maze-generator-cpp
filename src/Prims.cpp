@@ -12,7 +12,7 @@ void Prims::PrimsGenerate()
 
   Maze::map[x][z] = 0;
 
-  walls.emplace_back(x + 1, z);
+  walls.emplace_back(x + 2, z);
   walls.emplace_back(x - 1, z);
   walls.emplace_back(x, z + 1);
   walls.emplace_back(x, z - 1);
